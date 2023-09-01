@@ -1,9 +1,9 @@
-Warrobot10's profile!
+# Welcome!
 
-- 👋 Hi, I’m @Warrobot10!
-- 👀 I’m new to Github!
-- 🌱 I’m currently learning How to code!
-- 💞️ I’m looking to collaborate on open source projects!
+Hey there! I see that you've stumbled across my github profile!
+I'm have contributed to many repositorys, most notably monkeytype, and serika for obsidian.
+
+# Cool stats.
 
 <!---
 Warrobot10/Warrobot10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
