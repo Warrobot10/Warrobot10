@@ -5,7 +5,7 @@ I have contributed to many repositorys, most notably monkeytype, and serika for 
 
 # Cool stats.
  <a href="https://monkeytype.com/profile/Warrobot10">
-        <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+        <img src="https://raw.githubusercontent.com/Warrobot10/Warrobot10/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
     </a>
                         
 <!---
