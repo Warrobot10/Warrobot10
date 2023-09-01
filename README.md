@@ -1,7 +1,7 @@
 # Welcome!
 
 Hey there! I see that you've stumbled across my github profile!
-I'm have contributed to many repositorys, most notably monkeytype, and serika for obsidian.
+I have contributed to many repositorys, most notably monkeytype, and serika for obsidian.
 
 # Cool stats.
 
